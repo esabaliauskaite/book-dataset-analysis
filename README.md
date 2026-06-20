@@ -1,4 +1,4 @@
-# Books Dataset Analysis
+# Modeling Book Success with Ratings, Popularity Signals, Genre Trends, and Text Embeddings
 
 ## Goal
 
@@ -15,7 +15,7 @@ Rakshit, S., Cebrian, M., & Nikolaev, A. (2020). *Best Books Ever Dataset*. Zeno
 - Dataset URL: https://zenodo.org/records/4265096
 - License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-## Dataset Overview
+<!-- ## Dataset Overview
 
 The dataset contains information about books, including:
 
@@ -25,6 +25,8 @@ The dataset contains information about books, including:
 - Genres
 - Number of reviews and votes
 - Publication information
+
+
 
 The raw data requires cleaning due to:
 
@@ -92,3 +94,4 @@ Currently in progress.
 - Final report and presentation
 
 ## Future Improvements
+ -->
