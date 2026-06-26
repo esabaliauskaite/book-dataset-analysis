@@ -15,7 +15,7 @@ Rakshit, S., Cebrian, M., & Nikolaev, A. (2020). *Best Books Ever Dataset*. Zeno
 - Dataset URL: https://zenodo.org/records/4265096
 - License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-<!-- ## Dataset Overview
+## Dataset Overview
 
 The dataset contains information about books, including:
 
@@ -26,15 +26,13 @@ The dataset contains information about books, including:
 - Number of reviews and votes
 - Publication information
 
-
-
 The raw data requires cleaning due to:
 
 - Missing values
 - Duplicate entries
 - Inconsistent formatting
 - Mixed categorical fields
-
+<!-- 
 ## Objectives
 
 - Perform exploratory data analysis (EDA)
