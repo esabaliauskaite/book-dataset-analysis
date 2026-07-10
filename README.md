@@ -32,7 +32,7 @@ The raw data requires cleaning due to:
 - Duplicate entries
 - Inconsistent formatting
 - Mixed categorical fields
-<!-- 
+
 ## Objectives
 
 - Perform exploratory data analysis (EDA)
@@ -51,6 +51,31 @@ The raw data requires cleaning due to:
 | `notebooks/` | Jupyter notebooks for analysis |
 | `visualizations/` | Final visualizations and exported figures |
 
+## Project Status
+
+### Currently in progress
+
+- Data audit notebook
+
+### Planned
+
+- Data cleaning pipeline
+- Exploratory Data Analysis (EDA)
+- Rating distribution analysis
+- Top authors and books analysis
+- Genre trend analysis
+- Correlation analysis
+- Interactive dashboards
+- Sentiment analysis of descriptions/reviews
+- Recommendation-system experiments (optional)
+- Final report and presentation
+
+### Completed
+
+- Repository structure setup
+- Initial dataset inspection
+
+<!--
 ## Tools Used
 
 - Python
@@ -61,35 +86,4 @@ The raw data requires cleaning due to:
 - Plotly
 - Jupyter Notebook
 - Excel (initial exploration)
-
-## Planned Analyses
-
-- Exploratory Data Analysis (EDA)
-- Rating distribution analysis
-- Top authors and books analysis
-- Genre trend analysis
-- Correlation analysis
-- Interactive dashboards
-- Sentiment analysis of descriptions/reviews
-- Recommendation-system experiments (optional)
-
-## Project Status
-
-Currently in progress.
-
-### Completed
-
-- Repository structure setup
-- Initial dataset inspection
-- Data audit notebook
-
-### Planned
-
-- Data cleaning pipeline
-- Visualization dashboard
-- NLP/sentiment analysis
-- README refinement
-- Final report and presentation
-
-## Future Improvements
- -->
+-->
